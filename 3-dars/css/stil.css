@@ -1,0 +1,80 @@
+.box {
+    background-color: black;
+    width: 350px;
+    color: white;
+    border-radius: 10px;
+    padding: 5px;
+    height: 350px;
+
+
+}
+
+.box2 {
+    border: 1px solid black;
+    width: 350px;
+    color: white;
+    border-radius: 10px;
+    padding: 5px;
+    height: 350px;
+    margin-left: 5px;
+    box-shadow: inset;
+
+}
+
+.box3 {
+    border: 1px solid black;
+    width: 350px;
+    color: white;
+    border-radius: 10px;
+    padding: 5px;
+    height: 350px;
+
+
+}
+
+.rasm {
+    width: 50%;
+    border-radius: 50%;
+
+}
+
+.rasm1 {
+    width: 20%;
+    border-radius: 50%;
+}
+
+.soz {
+    margin-bottom: 10px;
+}
+
+.soz1 {
+    color: silver;
+}
+
+.block1 {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    /* gap: 30px; */
+}
+
+.img {
+    width: 40px;
+}
+
+.icon1 {
+    width: 35px;
+}
+
+.rasm3 {
+    width: 50px;
+}
+.soz4{
+    color: silver;
+}
+.block2{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    /* gap: 30px; */
+}
